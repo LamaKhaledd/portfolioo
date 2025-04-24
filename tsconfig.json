@@ -1,0 +1,40 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": ["./src/*"],
+      "@ui/*": ["./src/core/ui/*"],
+      "@models/*": ["./src/core/models/*"],
+      "@components*": ["./src/core/ui/components/*"],
+      "@auth/*": ["./src/app/[locale]/(auth)/*"],
+      "@action/*": ["./src/core/ui/components/toggle-theme/*"],
+      "@hooks/*": ["./src/app/[locale]/(auth)/_lib/hooks/*"],
+      "@InputRenderer/*": ["./src/core/ui/components/inputs-renderer/*"],
+      "@authComponents/*": ["./src/app/[locale]/(auth)/_lib/components/*"],
+
+
+      "@dashboard/*": ["./src/app/[locale]/dashboard/_lib/*"],
+
+      
+    }
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "exclude": ["node_modules"]
+}

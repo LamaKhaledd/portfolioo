@@ -1,0 +1,112 @@
+{
+  "WelcomeSection": {
+    "welcomeUserName": "LAMA IBRAHIM",
+    "welcomeUserRole": "Full Stack Developer"
+  },
+  
+  "ContactMeButton": {
+    "Contact": "Contact Me"
+  },
+
+  "CVButtons": {
+  "DownloadButton": {
+    "Download": "Download PDF"
+  },
+
+  "EditCVButton": {
+    "EditCV": "Edit My CV"
+  }
+},
+  
+  "UserBio": {
+    "UserBioAbstract": {
+      "bio": "A passionate Full Stack Developer with a strong foundation in software engineering. I specialize in designing and developing web applications that are both functional and aesthetically pleasing. With expertise in front-end and back-end technologies, I aim to create seamless digital experiences."
+    },
+    "UserBioExtended": {
+      "bio": "Beyond coding, I am committed to continuous learning, problem-solving, and leveraging technology to drive innovation. Let us connect and collaborate on exciting projects!"
+    }
+  },
+
+  "seeMyProjects": {
+    "seeMyProjectsButton": "Go to my projects -> "
+  },
+
+  "ProfileTabs": {
+        "About": "About",
+        "Skills": "Skills",
+        "CV": "CV"
+  },
+
+    "SkillsCategories":[
+        {
+          "categoryName": "Programming Languages",
+          "skills": [
+            "C",
+            "C++",
+            "Java",
+            "JavaScript",
+            "TypeScript",
+            "PHP",
+            "Python",
+            "x86 Assembly",
+            "MIPS Assembly",
+            "VHDL",
+            "Verilog",
+            "System Verilog"
+          ]
+        },
+        {
+          "categoryName": "Backend Development",
+          "skills": [
+            "Spring Boot",
+            "Spring Security",
+            "JPA",
+            "RESTful APIs",
+            "Docker",
+            "MySQL",
+            "Flask",
+            "RabbitMQ",
+            "Google Cloud",
+            "MongoDB"
+          ]
+        },
+        {
+          "categoryName": "Frontend Development",
+          "skills": [
+            "HTML",
+            "CSS",
+            "SASS/SCSS",
+            "React",
+            "Flutter",
+            "Next.js",
+            "Mantine UI"
+          ]
+        },
+        {
+          "categoryName": "Tools",
+          "skills": [
+            "Git",
+            "Docker",
+            "Maven",
+            "Junit",
+            "Cucumber",
+            "Word",
+            "Excel",
+            "PowerPoint",
+            "Canva"
+          ]
+        },
+        {
+          "categoryName": "Languages",
+          "skills": [
+            "Arabic (Native)",
+            "English (Proficient)",
+            "Turkish (Some Understanding)"
+          ]
+        }
+      ]
+  }
+
+
+  
+

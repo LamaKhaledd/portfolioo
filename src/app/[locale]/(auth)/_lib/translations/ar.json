@@ -1,0 +1,19 @@
+{
+    "Nav": {
+      
+        "name": "لما إبراهيم",
+        "navItems": {
+          "gallery": "المعرض",
+          "projects": "المشاريع",
+          "experience": "الخبرة",
+          "contact": "التواصل"
+        },
+        "hireme": "وظفني"
+      },
+
+      "Footer":{
+      "programmedBy": "© لما ابراهيم 2025 | تم تصميمه بواسطة "
+    }
+      
+    }
+  

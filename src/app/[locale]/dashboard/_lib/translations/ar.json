@@ -1,0 +1,110 @@
+{
+  "WelcomeSection": {
+    "welcomeUserName": "لما ابراهيم",
+    "welcomeUserRole": "مطورة برمجيات"
+  },
+    
+  "ContactMeButton": {
+    "Contact": "انقر للتواصل"
+  },
+  
+  "UserBio": {
+
+    "UserBioAbstract": {
+      "bio": "مطور برمجي أتمتع بأساس قوي في هندسة البرمجيات. أمتلك خبرة في تصميم وتطوير تطبيقات الويب التي تجمع بين الوظائف المتقدمة والجاذبية البصرية. بفضل إتقاني لتقنيات الواجهة الأمامية والخلفية، أسعى إلى تقديم تجارب رقمية سلسة ومتميزة."
+    },
+    "UserBioExtended": {
+      "bio": "إلى جانب البرمجة، أحرص على التعلم المستمر، وحل المشكلات، وتسخير التكنولوجيا لدفع عجلة الابتكار. يسعدني التواصل والتعاون في مشاريع مميزة وملهمة!"
+    }
+  
+  },
+
+  "seeMyProjects":{
+    "seeMyProjectsButton":"انقر لرؤية نماذج من مشاريعي -> "
+  } ,
+
+"ProfileTabs": {
+        "About": "حول",
+        "Skills": "مهارات مكتسبة",
+        "CV": "السيرة الذاتية"
+  },
+  "CVButtons": {
+  "DownloadButton": {
+    "Download": "تنزيل الملف ك PDF"
+  },
+
+  "EditCVButton": {
+    "EditCV": "تحرير سيرتي الذاتية"
+  }
+},
+  
+    "SkillsCategories": [
+      {
+        "categoryName": "Programming Languages",
+        "skills": [
+          "C",
+          "C++",
+          "Java",
+          "JavaScript",
+          "TypeScript",
+          "PHP",
+          "Python",
+          "x86 Assembly",
+          "MIPS Assembly",
+          "VHDL",
+          "Verilog",
+          "System Verilog"
+        ]
+      },
+      {
+        "categoryName": "Backend Development",
+        "skills": [
+          "Spring Boot",
+          "Spring Security",
+          "JPA",
+          "RESTful APIs",
+          "Docker",
+          "MySQL",
+          "Flask",
+          "RabbitMQ",
+          "Google Cloud",
+          "MongoDB"
+        ]
+      },
+      {
+        "categoryName": "Frontend Development",
+        "skills": [
+          "HTML",
+          "CSS",
+          "SASS/SCSS",
+          "React",
+          "Flutter",
+          "Next.js",
+          "Mantine UI"
+        ]
+      },
+      {
+        "categoryName": "Tools",
+        "skills": [
+          "Git",
+          "Docker",
+          "Maven",
+          "Junit",
+          "Cucumber",
+          "Word",
+          "Excel",
+          "PowerPoint",
+          "Canva"
+        ]
+      },
+      {
+        "categoryName": "Languages",
+        "skills": [
+          "Arabic (Native)",
+          "English (Proficient)",
+          "Turkish (Some Understanding)"
+        ]
+      }
+    ]
+  
+}

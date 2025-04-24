@@ -1,0 +1,17 @@
+{
+
+    "Nav":{
+      "name": "Lama Ibrahim",
+    "navItems": {
+      "about": "About",
+      "projects": "Projects",
+      "experience": "Experience",
+      "contact": "Contact"
+    },
+    "hireme": "Hire Me"
+    },
+
+    "Footer":{
+      "programmedBy": "© Lama Ibrahim 2024 | Designed and programmed in "
+    }
+  }
